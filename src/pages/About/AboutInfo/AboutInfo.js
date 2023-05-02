@@ -15,7 +15,7 @@ const AboutInfo = () => {
             <h4>Let us introduce ourselves</h4>
 
             <p>
-            acos is a full service bar and restaurant, featuring a large garden
+            Tacos is a full service bar and restaurant, featuring a large garden
               patio, offering creative Mexican fare that is tasty. Our menu features
               gourmet fish tacos, burritos, salads and quesadillas and tasty guacamole
               dip. Blending a culinary philosophy that pays tribute to a rich legacy.
