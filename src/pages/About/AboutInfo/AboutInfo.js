@@ -22,15 +22,13 @@ const AboutInfo = () => {
             </p>
 
             <blockquote>
-              Nulla consequat massa quis enim. Doncus ut, imperdiet a.
+            Enjoy our dazzling dishes and make the most of your eating background with us!
             </blockquote>
 
             <p>
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-              commodo ligula eget dolor.{" "}
-              <span className="special-word">Aenean massa.</span> Cum sociis
-              natoque penatibus et magnis dis parturient montes, nascetur
-              ridiculus mus. Donec quam felis.
+            We feature a menu that changes daily with a focus on seasonal and local cuisine. 
+            Heirloom grains are milled fresh for house made pastas, breads and desert and whole 
+            animal butchery is done on site.
             </p>
           </div>
         </div>
@@ -44,21 +42,16 @@ const AboutInfo = () => {
             <h4>We hope to see you soon!</h4>
 
             <p>
-              Lorem ipsum dolor sit amet,{" "}
-              <span className="special-word">consectetuer </span>adipiscing
-              elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
-              natoque penatibus et magnis dis parturient montes, nascetur
-              ridiculus mus. Donec quam felis.
+            Tequila aged in smoke barrels for more than a year resulting in a golden amber colour with a soft, smooth and complex finish.
             </p>
 
             <blockquote>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
+              This award-winning wine destination merits uncommon notice.
             </blockquote>
 
             <p>
-              Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-              penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+            There are two ways to dine with us. One is off the menu which offers small plates, pastas and deserts which are all meant to be shared. 
+            In addition to our printed menu, guests can also order directly off circulating carts that stop by during their meal to try ‘dim sum bites’.
             </p>
           </div>
         </div>
